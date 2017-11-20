@@ -4,7 +4,7 @@
 #+PROPERTY: BASEEDITION J
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 1
-
+<pb:KR6q0193_SBCK_002-1a>
 堂校¶
 古詩
 　¶　高安㑹諒師出諸公所惠詩求予爲賦用祖原
