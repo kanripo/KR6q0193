@@ -4,7 +4,11 @@
 #+PROPERTY: BASEEDITION J
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 14
+
+# SB1_1018-082.png
+# page missing
 <pb:KR6q0193_SBCK_015-1a>
+# SB1_1018-083.png
 滅笑把遺編篆縷斜
 糞火但知黄獨美銀鈎那識紫泥新尚無心緒收寒¶
 涕豈有工夫問俗人
@@ -575,9 +579,3 @@
 石門文字禪巻第十五<md:KR6q0193_J_015-0648a>¶
 <pb:KR6q0193_SBCK_015-27a>
 
-<pb:KR6q0193_SBCK_016-1a>
-石門文字禪卷第十六¶
-　　　宋江西筠溪石門寺沙門釋德洪覺範著¶
-　　　門人覺慈編錄　西眉東巖旌善堂校¶
-　七言絶句
-　¶　
